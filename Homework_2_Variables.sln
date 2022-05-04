@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variables_Switch", "Variables_Switch\Variables_Switch.vcxproj", "{D84CC828-D764-4529-9D67-05D0467EA1AA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Variables_Switch_Without_Cell", "Variables_Switch_Without_Cell\Variables_Switch_Without_Cell.vcxproj", "{AD26527A-6A31-4375-9999-043E178CA5E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{D84CC828-D764-4529-9D67-05D0467EA1AA}.Release|x64.Build.0 = Release|x64
 		{D84CC828-D764-4529-9D67-05D0467EA1AA}.Release|x86.ActiveCfg = Release|Win32
 		{D84CC828-D764-4529-9D67-05D0467EA1AA}.Release|x86.Build.0 = Release|Win32
+		{AD26527A-6A31-4375-9999-043E178CA5E6}.Debug|x64.ActiveCfg = Debug|x64
+		{AD26527A-6A31-4375-9999-043E178CA5E6}.Debug|x64.Build.0 = Debug|x64
+		{AD26527A-6A31-4375-9999-043E178CA5E6}.Debug|x86.ActiveCfg = Debug|Win32
+		{AD26527A-6A31-4375-9999-043E178CA5E6}.Debug|x86.Build.0 = Debug|Win32
+		{AD26527A-6A31-4375-9999-043E178CA5E6}.Release|x64.ActiveCfg = Release|x64
+		{AD26527A-6A31-4375-9999-043E178CA5E6}.Release|x64.Build.0 = Release|x64
+		{AD26527A-6A31-4375-9999-043E178CA5E6}.Release|x86.ActiveCfg = Release|Win32
+		{AD26527A-6A31-4375-9999-043E178CA5E6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
